@@ -3,15 +3,15 @@
 PneumoVision is an innovative app that uses AI technology to detect pneumonia through lung X-Ray scans, helping to improve healthcare practices in Indonesia. Based on WHO data, pneumonia is the leading cause of childhood death worldwide, with a growing prevalence in Indonesia. PneumoVision offers a fast and accurate diagnosis solution, integrated with cloud computing and machine learning models.
 
 ## Key Features
-- Pneumonia Detection**: Analyzes lung X-Ray to classify the level/percentage of pneumonia.
-- Cloud Integration**: Data and AI models are hosted on the cloud for quick access and scalability.
-- Modern User Interface**: Utilizes Material Design components for an intuitive user experience.
+- **Pneumonia Detection**: Analyzes lung X-Ray to classify the level/percentage of pneumonia.
+- **Cloud Integration**: Data and AI models are hosted on the cloud for quick access and scalability.
+- **Modern User Interface**: Utilizes Material Design components for an intuitive user experience.
 
 ## Technology Used
-- **LiveData dan ViewModel**: Memastikan data tetap up-to-date dan memisahkan logika bisnis dari UI.
-- **Retrofit dan Kotlin Coroutines**: Mengambil data secara efisien dan mengelola asynchronous tasks.
-- **Glide**: Manajemen gambar yang efisien.
-- **Material Components**: Desain UI yang modern dan responsif.
+- **LiveData and ViewModel**: Ensure data stays up-to-date and separate business logic from UI.
+- **Retrofit and Kotlin Coroutines**: Retrieve data efficiently and manage asynchronous tasks.
+- **Glide**: Efficient image management.
+- **Material Components**: Modern and responsive UI design.
 
 ## Team Members
 
@@ -28,6 +28,6 @@ PneumoVision is an innovative app that uses AI technology to detect pneumonia th
 ## Repositories
 
 - [Machine Learning Repository](https://github.com/username/ml-repo)
-- [Machine Learning - Google Drive](https://drive.google.com/drive/folders/...)
+- [Machine Learning - Dataset]([https://drive.google.com/drive/folders/...](https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray/code))
 - [Mobile Development Repository](https://github.com/username/mobile-repo)
 - [Cloud Computing - Repository](https://github.com/username/nodejs-repo)
