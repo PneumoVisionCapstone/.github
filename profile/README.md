@@ -27,7 +27,7 @@ PneumoVision is an innovative app that uses AI technology to detect pneumonia th
 
 ## Repositories
 
-- [Machine Learning Repository](https://github.com/username/ml-repo)
+- [Machine Learning Repository](https://github.com/PneumoVisionCapstone/Machine-Learning-Division)
 - [Machine Learning - Dataset](https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray/code)
 - [Mobile Development Repository](https://github.com/PneumoVisionCapstone/Mobile-Division)
 - [Pneumovision APK Repository](https://github.com/PneumoVisionCapstone/Pneumovision-APK)
